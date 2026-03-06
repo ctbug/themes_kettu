@@ -50,6 +50,12 @@
         "BACKGROUND_TERTIARY": [
             "#1e1e1e"
         ],
+         "BACKGROUND_MENTIONED": [ 
+             "#3e4c75" 
+         ],
+        "BACKGROUND_MENTIONED_HOVER": [ 
+            "#4d5d8c" 
+        ],
         "BACKGROUND_ACCENT": [
             "#7e8ecc"
         ],
